@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "threads": {
+      "type": "http",
+      "url": "https://threads-mcp.app/mcp"
+    }
+  }
+}

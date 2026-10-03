@@ -1,0 +1,18 @@
+{
+  "name": "threads-for-claude",
+  "description": "The Threads for Claude plugin: your Threads account in Claude Code, with commands for writing, replying and auditing.",
+  "owner": {
+    "name": "Threads for Claude",
+    "url": "https://threads-mcp.app"
+  },
+  "plugins": [
+    {
+      "name": "threads",
+      "source": "./plugins/threads",
+      "description": "Threads (threads.com) for Claude Code: post, reply, audit and plan through the Threads for Claude MCP server.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "homepage": "https://threads-mcp.app"
+    }
+  ]
+}

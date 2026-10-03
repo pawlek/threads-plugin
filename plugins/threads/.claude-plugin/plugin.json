@@ -1,0 +1,18 @@
+{
+  "name": "threads",
+  "version": "1.0.0",
+  "description": "Connects your Threads account through the Threads for Claude MCP server and adds commands for writing posts, replying to replies, auditing what works and planning the week. Nothing is published without your yes.",
+  "author": {
+    "name": "Threads for Claude",
+    "url": "https://threads-mcp.app"
+  },
+  "homepage": "https://threads-mcp.app",
+  "repository": "https://github.com/pawlek/threads-plugin",
+  "keywords": [
+    "threads",
+    "social",
+    "writing",
+    "analytics",
+    "mcp"
+  ]
+}
